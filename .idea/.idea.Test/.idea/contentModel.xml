@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Leopard\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Leopard\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Test.393897881.00" t="ExcludeRecursive" />
+    <e p="D:\RightwayGames\Projects\juniortest\Test\Test" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Gameplay" t="Include">
+            <e p="Helpers" t="Include">
+              <e p="GameAreaHelper.cs" t="Include" />
+              <e p="OutOfBorderDestructor.cs" t="Include" />
+            </e>
+            <e p="ShipControllers" t="Include">
+              <e p="CustomControllers" t="Include">
+                <e p="EnemyShipController.cs" t="Include" />
+                <e p="PlayerShipController.cs" t="Include" />
+              </e>
+              <e p="ShipController.cs" t="Include" />
+            </e>
+            <e p="ShipSystems" t="Include">
+              <e p="MovementSystem.cs" t="Include" />
+              <e p="WeaponSystem.cs" t="Include" />
+            </e>
+            <e p="Spaceships" t="Include">
+              <e p="ISpaceship.cs" t="Include" />
+              <e p="Spaceship.cs" t="Include" />
+            </e>
+            <e p="Spawners" t="Include">
+              <e p="Spawner.cs" t="Include" />
+            </e>
+            <e p="Weapons" t="Include">
+              <e p="IDamagable.cs" t="Include" />
+              <e p="IDamageDealer.cs" t="Include" />
+              <e p="Projectiles" t="Include">
+                <e p="CustomProjectiles" t="Include">
+                  <e p="LaserBeam.cs" t="Include" />
+                </e>
+                <e p="Projectile.cs" t="Include" />
+              </e>
+              <e p="Weapon.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Test.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
